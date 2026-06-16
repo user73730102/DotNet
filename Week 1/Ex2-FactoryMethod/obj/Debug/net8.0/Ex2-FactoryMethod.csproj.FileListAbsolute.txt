@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\bin\Debug\net8.0\Ex2-FactoryMethod.exe
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\bin\Debug\net8.0\Ex2-FactoryMethod.deps.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\bin\Debug\net8.0\Ex2-FactoryMethod.runtimeconfig.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\bin\Debug\net8.0\Ex2-FactoryMethod.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\bin\Debug\net8.0\Ex2-FactoryMethod.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\Ex2-FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\Ex2-FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\Ex2-FactoryMethod.AssemblyInfo.cs
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\Ex2-FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\Ex2-FactoryMethod.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\refint\Ex2-FactoryMethod.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\Ex2-FactoryMethod.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\Ex2-FactoryMethod.genruntimeconfig.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex2-FactoryMethod\obj\Debug\net8.0\ref\Ex2-FactoryMethod.dll

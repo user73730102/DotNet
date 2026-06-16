@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\bin\Debug\net8.0\Ex1-Singleton.exe
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\bin\Debug\net8.0\Ex1-Singleton.deps.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\bin\Debug\net8.0\Ex1-Singleton.runtimeconfig.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\bin\Debug\net8.0\Ex1-Singleton.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\bin\Debug\net8.0\Ex1-Singleton.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\Ex1-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\Ex1-Singleton.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\Ex1-Singleton.AssemblyInfo.cs
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\Ex1-Singleton.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\Ex1-Singleton.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\refint\Ex1-Singleton.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\Ex1-Singleton.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\Ex1-Singleton.genruntimeconfig.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex1-Singleton\obj\Debug\net8.0\ref\Ex1-Singleton.dll
