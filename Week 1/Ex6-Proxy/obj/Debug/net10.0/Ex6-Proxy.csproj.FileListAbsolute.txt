@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\bin\Debug\net10.0\Ex6-Proxy.exe
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\bin\Debug\net10.0\Ex6-Proxy.deps.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\bin\Debug\net10.0\Ex6-Proxy.runtimeconfig.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\bin\Debug\net10.0\Ex6-Proxy.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\bin\Debug\net10.0\Ex6-Proxy.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\Ex6-Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\Ex6-Proxy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\Ex6-Proxy.AssemblyInfo.cs
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\Ex6-Proxy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\Ex6-Proxy.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\refint\Ex6-Proxy.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\Ex6-Proxy.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\Ex6-Proxy.genruntimeconfig.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex6-Proxy\obj\Debug\net10.0\ref\Ex6-Proxy.dll

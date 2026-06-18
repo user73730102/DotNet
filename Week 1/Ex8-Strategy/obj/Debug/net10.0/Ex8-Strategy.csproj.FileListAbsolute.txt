@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\bin\Debug\net10.0\Ex8-Strategy.exe
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\bin\Debug\net10.0\Ex8-Strategy.deps.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\bin\Debug\net10.0\Ex8-Strategy.runtimeconfig.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\bin\Debug\net10.0\Ex8-Strategy.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\bin\Debug\net10.0\Ex8-Strategy.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\Ex8-Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\Ex8-Strategy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\Ex8-Strategy.AssemblyInfo.cs
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\Ex8-Strategy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\Ex8-Strategy.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\refint\Ex8-Strategy.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\Ex8-Strategy.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\Ex8-Strategy.genruntimeconfig.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex8-Strategy\obj\Debug\net10.0\ref\Ex8-Strategy.dll

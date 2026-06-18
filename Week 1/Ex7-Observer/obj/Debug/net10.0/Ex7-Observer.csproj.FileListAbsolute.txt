@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\bin\Debug\net10.0\Ex7-Observer.exe
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\bin\Debug\net10.0\Ex7-Observer.deps.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\bin\Debug\net10.0\Ex7-Observer.runtimeconfig.json
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\bin\Debug\net10.0\Ex7-Observer.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\bin\Debug\net10.0\Ex7-Observer.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\Ex7-Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\Ex7-Observer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\Ex7-Observer.AssemblyInfo.cs
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\Ex7-Observer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\Ex7-Observer.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\refint\Ex7-Observer.dll
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\Ex7-Observer.pdb
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\Ex7-Observer.genruntimeconfig.cache
+C:\Users\User\Desktop\Digital-Nurture-DotNetFSE-main\DotNet FSE\Upskilling\Week1\DesignPatterns\Ex7-Observer\obj\Debug\net10.0\ref\Ex7-Observer.dll
