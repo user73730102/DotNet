@@ -1,0 +1,48 @@
+.course-card {
+  background-color: var(--surface);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  border-left: 4px solid var(--border);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.course-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
+  border-color: var(--primary);
+}
+
+.course-card h3 {
+  color: #fff;
+  margin-top: 0;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.course-card p {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.course-card button {
+  margin-top: 1rem;
+  margin-right: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+}
+
+.course-card button:last-child {
+  background-color: var(--surface-hover);
+  color: var(--text-main);
+}
+
+.course-card button:last-child:hover {
+  background-color: var(--border);
+}
+
+.card--full {
+  border-right: 4px solid #f59e0b; /* highlight high credit courses */
+}
