@@ -1,0 +1,16 @@
+.trainer-nav {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.trainer-nav a {
+  margin-right: 1rem;
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.trainer-nav a:hover {
+  text-decoration: underline;
+}
